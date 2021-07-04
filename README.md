@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Project
-For the analysis:
-  1. Download and getting the data in the file 
-  2. Join the training and the test sets to create one data set
-  3. Load feature and activity info
-  4. Extract data by cols and using descriptive name
-  5. Generate tidy data
+This repository contains four different attachment regarding the project:
+  1. codebook.md - this is general explanation of code.
+  2. READ.md - this is general explanation of repository.
+  3. tidydata.txt - the output file of analysis.
+  4. run_analysis.R: this is the file containing the code which performs the analysis.
+
